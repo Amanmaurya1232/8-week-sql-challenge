@@ -1,0 +1,4 @@
+customer_id,sum(m.price)
+A,152
+B,148
+C,72
